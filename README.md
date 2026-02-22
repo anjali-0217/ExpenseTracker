@@ -17,9 +17,3 @@ Expense Tracker is a Java-based application that helps users track and manage th
 1. Open project in Eclipse
 2. Run Main.java
 3. Follow on-screen instructions
-
----
-
-### 👩‍💻 Author
-Anjali Joshi  
-B.Tech Computer Science
